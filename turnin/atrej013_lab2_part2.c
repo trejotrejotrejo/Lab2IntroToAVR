@@ -38,7 +38,7 @@ int main(void) {
 	else if ((tmp == 0x07) || (tmp == 0x0B) || (tmp == 0x0D) || (tmp == 0x0E)) {
 		cntavail = 0x01;
 	}
-	else {
+	else if (tmp == 0x0F) {
 		cntavail = 0x00;
 	}
 	PORTC = cntavail;
