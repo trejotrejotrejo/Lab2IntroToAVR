@@ -1,7 +1,11 @@
 /*	Author: atrej013
  *  Partner(s) Name: 
  *	Lab Section: 023
+<<<<<<< HEAD
  *	Assignment: Lab #2  Exercise #1
+=======
+ *	Assignment: Lab #2  Exercise #Prelab
+>>>>>>> 10b1f5a58b13e92c781cd812f782ad5dd5848b69
  *	Exercise Description: [optional - include for your own benefit]
  *
  *	I acknowledge all content contained herein, excluding template or example
